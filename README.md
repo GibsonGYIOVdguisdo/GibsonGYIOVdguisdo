@@ -4,4 +4,4 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/GibsonGYIOVdguisdo?theme=light&font=Noto%20Sans%20Deseret&ext=heatmap)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=GibsonGYIOVdguisdo)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GibsonGYIOVdguisdo&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GibsonGYIOVdguisdo&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=ShaderLab,HLSL)
